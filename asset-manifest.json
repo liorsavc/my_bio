@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my_bio/static/css/main.cca91c5e.chunk.css",
+    "main.js": "/my_bio/static/js/main.073539f9.chunk.js",
+    "main.js.map": "/my_bio/static/js/main.073539f9.chunk.js.map",
+    "runtime-main.js": "/my_bio/static/js/runtime-main.f3890902.js",
+    "runtime-main.js.map": "/my_bio/static/js/runtime-main.f3890902.js.map",
+    "static/js/2.7be81624.chunk.js": "/my_bio/static/js/2.7be81624.chunk.js",
+    "static/js/2.7be81624.chunk.js.map": "/my_bio/static/js/2.7be81624.chunk.js.map",
+    "index.html": "/my_bio/index.html",
+    "precache-manifest.c54b223c16f38872a7f0a69968a9609c.js": "/my_bio/precache-manifest.c54b223c16f38872a7f0a69968a9609c.js",
+    "service-worker.js": "/my_bio/service-worker.js",
+    "static/css/main.cca91c5e.chunk.css.map": "/my_bio/static/css/main.cca91c5e.chunk.css.map",
+    "static/js/2.7be81624.chunk.js.LICENSE.txt": "/my_bio/static/js/2.7be81624.chunk.js.LICENSE.txt",
+    "static/media/Education.css": "/my_bio/static/media/education.c2d5ab35.jpg",
+    "static/media/experience.jpg": "/my_bio/static/media/experience.cacdde3c.jpg",
+    "static/media/profilePic.jpg": "/my_bio/static/media/profilePic.2f7bb66a.jpg",
+    "static/media/ProgramingSkills.css": "/my_bio/static/media/programingSkills.ad08e6ef.jpg",
+    "static/media/Projects.css": "/my_bio/static/media/projects.f60ea5ec.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3890902.js",
+    "static/js/2.7be81624.chunk.js",
+    "static/css/main.cca91c5e.chunk.css",
+    "static/js/main.073539f9.chunk.js"
+  ]
+}
